@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "name": "Apple iPhone X",
+        "price": 500
+    },
+    {
+        "id": 1,
+        "name": "Movado Men's 0606759 SE",
+        "price": 799
+    },
+    {
+        "id": 2,
+        "name": "Apple iMac 21.5in 2.7GHz Core i5 (ME086LL/A)",
+        "price": 495
+    }
+]
