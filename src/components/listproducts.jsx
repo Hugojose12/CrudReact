@@ -12,7 +12,7 @@ export default class listproducts extends Component {
 		render () {
 			return (
 					<div>
-						<h1 className="text-center mb-4">Products</h1>
+						<h1 className="text-center mb-4 mt-4">Products</h1>
 						<table className="table table-striped">
 							<thead>
 								<tr>
